@@ -1,4 +1,4 @@
-https://makcpokrovskiy.github.io/Game-PIG/game-pig
+https://yarcevalex.github.io/Game-PIG/game-pig
 
 
 Правила игры:
